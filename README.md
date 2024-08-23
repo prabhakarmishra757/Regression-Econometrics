@@ -1,5 +1,5 @@
 
-<h3>The provided code performs an Ordinary Least Squares (OLS) regression analysis on a sales dataset and conducts hypothesis testing.<h3>
+<h3>This code performs an Ordinary Least Squares (OLS) regression analysis on a sales dataset and conducts hypothesis testing.<h3>
 <h5>How to run this code:
   <p> 1. Download Anaconda</p>
   <p> 2. Run Jupyter in the default Browser through the Anaconda prompt</p><h5>
